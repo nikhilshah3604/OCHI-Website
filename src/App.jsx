@@ -18,10 +18,10 @@ const App = () => {
       <Marque />
       <About />
       <Eyes />
-      <Features />
+      <Features />   
       <Cards />
       <Footer />
-    </div>
+    </div>  
   );
 };
 
