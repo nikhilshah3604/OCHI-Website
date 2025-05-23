@@ -26,5 +26,5 @@ A modern, responsive, and animation-rich landing page inspired by the Ochi desig
 - [GSAP](https://greensock.com/gsap/)
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
 
-## 📂 Project Structure
+
 
